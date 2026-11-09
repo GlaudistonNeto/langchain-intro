@@ -1,0 +1,7 @@
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+# LangGraph API
+.langgraph_api
+node_modules
